@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8230C6&width=435&lines=Hi!+It's+Deepak+Soni;Full+Stack+MERN+Developer;)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h2 align='center'>Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">It's Deepak Soni.</h2>
+<h2 align='center'>Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">It's Om Prakash Soni.</h2>
 
 <h4>
-  <i>I'm a Full Stack Wev Developer MERN based in India. I've always enjoyed working on different projects to enhance my experience in developing various websites with varying features and functionalities Using Frontend and Backend Technology.</i>
+  <i>I'm a Frontend Web Developer MERN based in India. I've always enjoyed working on different projects to enhance my experience in developing various websites with varying features and functionalities Using Frontend and Backend Technology.</i>
 </h4>
 <h4>
   <i>Please feel free to drop off a text for collaborations or even if you wanna just say 'hi'.</i>
