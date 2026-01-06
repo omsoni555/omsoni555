@@ -1,11 +1,11 @@
-<!-- - 👋 Hi, I’m @Deepak-197
+<!-- - 👋 Hi, I’m Om Prakash Soni
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
 <!---
-Deepak-197/Deepak-197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Om Prakash Soni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align='center'>Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">It's Om Prakash Soni.</h2>
 
 <h4>
-  <i>I'm a Frontend Web Developer MERN based in India. I've always enjoyed working on different projects to enhance my experience in developing various websites with varying features and functionalities Using Frontend and Backend Technology.</i>
+  <i>I'm a Frontend Web Developer in India. I've always enjoyed working on different projects to enhance my experience in developing various websites with varying features and functionalities Using Frontend and Backend Technology.</i>
 </h4>
 <h4>
   <i>Please feel free to drop off a text for collaborations or even if you wanna just say 'hi'.</i>
