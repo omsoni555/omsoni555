@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/Deepak-197/JE-fit" target="_blank">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JEfit Fitness app Clone&color=FD3A5C&logo=BBW&logoColor=aqua&label=" alt="JEfit-Clone" />
 </a>
-<a href="https://royalmarriagegarden.netlify.app/" target="_blank"></a>
+<a href="https://royalmarriagegarden.netlify.app/" target="_blank">Royal Marriage Garden</a>
 
 
 # 📊 GitHub Stats:
